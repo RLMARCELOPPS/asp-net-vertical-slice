@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KZkPjjujmqvV3sMqtX6mLmO7yfO2ZE9jH//0CX4tOdE=",
+  "Source": "ecommerse-api",
+  "BasePath": "_content/ecommerse-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

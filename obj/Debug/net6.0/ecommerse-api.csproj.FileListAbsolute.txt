@@ -1,0 +1,204 @@
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\appsettings.Development.json
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\appsettings.json
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\ecommerse-api.exe
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\ecommerse-api.deps.json
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\ecommerse-api.runtimeconfig.json
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\ecommerse-api.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\ecommerse-api.pdb
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\AutoMapper.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Carter.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Dapper.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\FluentValidation.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Humanizer.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Mapster.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Mapster.Core.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\MediatR.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\MySql.Data.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\MySqlConnector.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Serilog.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\System.Text.Json.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\ZstdSharp.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ecommerse-api.csproj.AssemblyReference.cache
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ecommerse-api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ecommerse-api.AssemblyInfoInputs.cache
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ecommerse-api.AssemblyInfo.cs
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ecommerse-api.csproj.CoreCompileInputs.cache
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ecommerse-api.MvcApplicationPartsAssemblyInfo.cs
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ecommerse-api.MvcApplicationPartsAssemblyInfo.cache
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\staticwebassets\msbuild.ecommerse-api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\staticwebassets\msbuild.build.ecommerse-api.props
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ecommerse-api.props
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ecommerse-api.props
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\scopedcss\bundle\ecommerse-api.styles.css
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ecommers.B01500E4.Up2Date
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ecommerse-api.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\refint\ecommerse-api.dll
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ecommerse-api.pdb
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ecommerse-api.genruntimeconfig.cache
+D:\Redemple Marcelo\Personal Project\ASP\ecommerse-api\ecommerse-api\obj\Debug\net6.0\ref\ecommerse-api.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\appsettings.Development.json
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\appsettings.json
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\ecommerse-api.exe
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\ecommerse-api.deps.json
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\ecommerse-api.runtimeconfig.json
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\ecommerse-api.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\ecommerse-api.pdb
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Asp.Versioning.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Asp.Versioning.Http.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Asp.Versioning.Mvc.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Asp.Versioning.Mvc.ApiExplorer.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\AutoMapper.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Carter.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Dapper.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\FluentValidation.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Humanizer.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Mapster.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Mapster.Core.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\MediatR.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\MySql.Data.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\MySqlConnector.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Serilog.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\System.Text.Json.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\ZstdSharp.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ecommerse-api.csproj.AssemblyReference.cache
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ecommerse-api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ecommerse-api.AssemblyInfoInputs.cache
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ecommerse-api.AssemblyInfo.cs
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ecommerse-api.csproj.CoreCompileInputs.cache
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ecommerse-api.MvcApplicationPartsAssemblyInfo.cs
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ecommerse-api.MvcApplicationPartsAssemblyInfo.cache
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\staticwebassets.build.json
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\staticwebassets.development.json
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\staticwebassets\msbuild.ecommerse-api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\staticwebassets\msbuild.build.ecommerse-api.props
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ecommerse-api.props
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ecommerse-api.props
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\scopedcss\bundle\ecommerse-api.styles.css
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ecommers.B01500E4.Up2Date
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ecommerse-api.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\refint\ecommerse-api.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ecommerse-api.pdb
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ecommerse-api.genruntimeconfig.cache
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\obj\Debug\net6.0\ref\ecommerse-api.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\bin\Debug\net6.0\logs\logger-serilog-20240715.json

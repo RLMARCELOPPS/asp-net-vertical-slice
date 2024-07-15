@@ -1,0 +1,54 @@
+2024-07-15 11:36:44.733 +08:00 [INF] Now listening on: https://localhost:7182
+2024-07-15 11:36:44.868 +08:00 [INF] Now listening on: http://localhost:5116
+2024-07-15 11:36:44.881 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-15 11:36:44.886 +08:00 [INF] Hosting environment: Development
+2024-07-15 11:36:44.887 +08:00 [INF] Content root path: D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\
+2024-07-15 11:36:46.267 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7182/swagger/index.html - -
+2024-07-15 11:36:48.985 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7182/swagger/index.html - - - 200 - text/html;charset=utf-8 2755.8544ms
+2024-07-15 11:36:49.005 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7182/_framework/aspnetcore-browser-refresh.js - -
+2024-07-15 11:36:49.005 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7182/_vs/browserLink - -
+2024-07-15 11:36:49.036 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7182/_framework/aspnetcore-browser-refresh.js - - - 200 12358 application/javascript;+charset=utf-8 30.7945ms
+2024-07-15 11:36:49.318 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7182/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 312.8698ms
+2024-07-15 11:36:49.566 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7182/swagger/v1/swagger.json - -
+2024-07-15 11:36:50.578 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7182/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1011.6057ms
+2024-07-15 11:37:10.425 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7182/api/v1/cart-items - -
+2024-07-15 11:37:17.302 +08:00 [INF] Entity Framework Core 6.0.26 initialized 'ApplicationDbContext' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.2' with options: ServerVersion 8.0.36-mysql 
+2024-07-15 11:37:21.867 +08:00 [INF] Executed DbCommand (357ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM `Users` AS `u`
+    WHERE `u`.`Id` = @__id_0)
+2024-07-15 11:37:22.316 +08:00 [INF] Executing endpoint 'ecommerse_api.Features.CartItems.Controller.CartItemController.GetAll (ecommerse-api)'
+2024-07-15 11:37:22.426 +08:00 [INF] Route matched with {action = "GetAll", controller = "CartItem"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ecommerse_api.Features.CartItems.Controller.CartItemController (ecommerse-api).
+2024-07-15 11:37:27.586 +08:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ecommerse_api.Features.CartItems.Dto.CartItemDto, ecommerse-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-15 11:37:28.665 +08:00 [INF] Executed action ecommerse_api.Features.CartItems.Controller.CartItemController.GetAll (ecommerse-api) in 6191.6617ms
+2024-07-15 11:37:28.887 +08:00 [INF] Executed endpoint 'ecommerse_api.Features.CartItems.Controller.CartItemController.GetAll (ecommerse-api)'
+2024-07-15 11:37:28.928 +08:00 [INF] HTTP GET /api/v1/cart-items responded 200 in 18427.4853 ms
+2024-07-15 11:37:29.115 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7182/api/v1/cart-items - - - 200 - application/json;+charset=utf-8 18690.5537ms
+2024-07-15 11:38:26.199 +08:00 [INF] Now listening on: https://localhost:7182
+2024-07-15 11:38:26.290 +08:00 [INF] Now listening on: http://localhost:5116
+2024-07-15 11:38:26.315 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-15 11:38:26.319 +08:00 [INF] Hosting environment: Development
+2024-07-15 11:38:26.320 +08:00 [INF] Content root path: D:\Redemple Marcelo\Personal Project\Exercise Training\rlmarcelo-s2\
+2024-07-15 11:38:27.201 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7182/swagger/index.html - -
+2024-07-15 11:38:28.380 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7182/_framework/aspnetcore-browser-refresh.js - -
+2024-07-15 11:38:28.380 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7182/_vs/browserLink - -
+2024-07-15 11:38:28.390 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7182/swagger/index.html - - - 200 - text/html;charset=utf-8 1204.5120ms
+2024-07-15 11:38:28.402 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7182/_framework/aspnetcore-browser-refresh.js - - - 200 12358 application/javascript;+charset=utf-8 22.1043ms
+2024-07-15 11:38:28.523 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7182/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 142.5492ms
+2024-07-15 11:38:28.712 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7182/swagger/v1/swagger.json - -
+2024-07-15 11:38:29.196 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7182/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 483.7713ms
+2024-07-15 11:38:37.621 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7182/api/v1/cart-items - -
+2024-07-15 11:38:40.087 +08:00 [INF] Entity Framework Core 6.0.26 initialized 'ApplicationDbContext' using provider 'Pomelo.EntityFrameworkCore.MySql:6.0.2' with options: ServerVersion 8.0.36-mysql 
+2024-07-15 11:38:41.635 +08:00 [INF] Executed DbCommand (133ms) [Parameters=[@__id_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM `Users` AS `u`
+    WHERE `u`.`Id` = @__id_0)
+2024-07-15 11:38:41.816 +08:00 [INF] Executing endpoint 'ecommerse_api.Features.CartItems.Controller.CartItemController.GetAll (ecommerse-api)'
+2024-07-15 11:38:41.854 +08:00 [INF] Route matched with {action = "GetAll", controller = "CartItem"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller ecommerse_api.Features.CartItems.Controller.CartItemController (ecommerse-api).
+2024-07-15 11:38:43.508 +08:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ecommerse_api.Features.CartItems.Dto.CartItemDto, ecommerse-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-15 11:38:43.636 +08:00 [INF] Executed action ecommerse_api.Features.CartItems.Controller.CartItemController.GetAll (ecommerse-api) in 1766.9532ms
+2024-07-15 11:38:43.643 +08:00 [INF] Executed endpoint 'ecommerse_api.Features.CartItems.Controller.CartItemController.GetAll (ecommerse-api)'
+2024-07-15 11:38:43.657 +08:00 [INF] HTTP GET /api/v1/cart-items responded 200 in 6009.1304 ms
+2024-07-15 11:38:43.686 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7182/api/v1/cart-items - - - 200 - application/json;+charset=utf-8 6065.1243ms
